@@ -8,3 +8,4 @@ git status
 git add .gitignore
 git commit -m
 git push origin main
+ ovo su komande zadatka
